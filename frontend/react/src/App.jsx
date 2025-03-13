@@ -4,6 +4,11 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
+  
+
+
+  
+      
 
   const [count, setCount] = useState(0)
 
@@ -12,10 +17,10 @@ function App() {
       <h1>BhumiReddy Sahithi</h1>
       Rohitha Gannamaneedi
       Rekhansika Goluguri
-
+      <h1>Rohitha Gannamaneedi</h1>
 
     </>
   )
 }
 
-export default App
+export default App;

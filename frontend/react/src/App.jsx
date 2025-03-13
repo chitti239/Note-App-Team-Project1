@@ -9,13 +9,10 @@ function App() {
 
   return (
     <>
+      <h1>BhumiReddy Sahithi</h1>
       Rohitha Gannamaneedi
-
-  
-
-  return (
-    <>
       Rekhansika Goluguri
+
 
     </>
   )
